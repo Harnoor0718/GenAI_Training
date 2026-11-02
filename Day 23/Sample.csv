@@ -1,0 +1,101 @@
+CustomerID,Age,Gender,City,State,Education,Occupation,ProductCategory,ProductTier,PaymentMethod,DeviceType,MembershipLevel,PurchaseChannel,DeliveryOption,CustomerRating,CampaignUsed,PurchaseAmount,ItemsPurchased,PreviousOrders,PurchaseDate
+C001,19,Non-binary,Mohali,Punjab,Bachelor's,Business,Home & Kitchen,Mid-range,Wallet,Android,None,Social Media,Standard,Poor,None,5621.44,1,35,2026-04-12
+C002,44,Female,Pune,Maharashtra,Master's,Analyst,Electronics,Mid-range,Wallet,MacBook,Gold,Store,Express,Fair,Student Discount,2733.92,7,6,2026-07-03
+C003,56,Male,Patiala,Punjab,High School,Government,Clothing,Luxury,UPI,Tablet,Gold,Store,Express,Poor,None,16598.99,5,5,2026-04-30
+C004,42,Male,Mohali,Punjab,Master's,Healthcare,Books,Premium,Debit Card,iPhone,Gold,Website,Express,Excellent,Festival Sale,4251.55,7,17,2026-10-13
+C005,61,Male,Amritsar,Punjab,High School,Business,Electronics,Premium,Cash,Windows Laptop,None,Mobile App,Same Day,Fair,Loyalty Offer,10011.07,8,9,2026-05-16
+C006,33,Non-binary,Chandigarh,Punjab,PhD,Analyst,Groceries,Luxury,Debit Card,iPhone,Silver,Social Media,Standard,Poor,None,3989.62,3,27,2026-02-02
+C007,42,Non-binary,Delhi,Delhi,Master's,Analyst,Electronics,Budget,Wallet,Tablet,Gold,Store,Standard,Good,Loyalty Offer,4121.47,1,16,2026-09-14
+C008,50,Female,Chandigarh,Punjab,Bachelor's,Business,Books,Premium,Credit Card,Tablet,None,Store,Pickup,Poor,None,23241.57,5,15,2026-01-30
+C009,54,Female,Amritsar,Punjab,High School,Government,Clothing,Mid-range,Credit Card,MacBook,Silver,Store,Pickup,Fair,Clearance,18930.33,4,19,2026-07-24
+C010,46,Non-binary,Patiala,Punjab,Master's,Engineer,Home & Kitchen,Mid-range,UPI,Windows Laptop,None,Mobile App,Express,Poor,None,17754.16,1,14,2026-02-04
+C011,39,Female,Ludhiana,Punjab,PhD,Business,Sports,Luxury,Credit Card,Tablet,Silver,Social Media,Express,Very Good,Loyalty Offer,4921.36,2,27,2026-07-01
+C012,44,Male,Delhi,Delhi,High School,Engineer,Electronics,Luxury,Wallet,Windows Laptop,None,Mobile App,Express,Fair,Clearance,11325.06,7,11,2026-05-23
+C013,33,Female,Jaipur,Rajasthan,Master's,Engineer,Electronics,Budget,UPI,iPhone,Silver,Social Media,Pickup,Very Good,Festival Sale,21643.19,1,10,2026-07-14
+C014,42,Male,Ludhiana,Punjab,Master's,Analyst,Groceries,Luxury,Credit Card,iPhone,Gold,Mobile App,Standard,Excellent,Clearance,1710.81,6,3,2026-01-26
+C015,48,Non-binary,Mumbai,Maharashtra,PhD,Teacher,Electronics,Budget,Credit Card,Android,None,Mobile App,Pickup,Poor,Clearance,6305.39,1,5,2026-08-03
+C016,54,Non-binary,Mumbai,Maharashtra,Bachelor's,Analyst,Home & Kitchen,Premium,Credit Card,Windows Laptop,Platinum,Mobile App,Same Day,Very Good,Student Discount,23239.58,2,0,2026-08-23
+C017,54,Female,Mumbai,Maharashtra,High School,Business,Sports,Mid-range,Debit Card,Android,Silver,Store,Same Day,Fair,Loyalty Offer,20876.71,5,33,2026-01-05
+C018,37,Non-binary,Pune,Maharashtra,High School,Teacher,Sports,Budget,UPI,Tablet,Silver,Store,Same Day,Excellent,Festival Sale,17996.5,4,16,2026-09-16
+C019,34,Female,Jaipur,Rajasthan,High School,Designer,Sports,Budget,UPI,Windows Laptop,Silver,Store,Express,Very Good,Clearance,17700.26,1,7,2026-02-08
+C020,52,Female,Chandigarh,Punjab,Bachelor's,Teacher,Groceries,Mid-range,UPI,Windows Laptop,Gold,Website,Same Day,Fair,Festival Sale,16739.62,6,35,2026-07-28
+C021,65,Female,Mumbai,Maharashtra,Diploma,Teacher,Books,Luxury,UPI,iPhone,Gold,Social Media,Express,Good,Festival Sale,19726.68,2,24,2026-01-20
+C022,32,Female,Jaipur,Rajasthan,Master's,Healthcare,Sports,Mid-range,Credit Card,Android,Silver,Social Media,Same Day,Good,None,24178.82,5,22,2026-09-18
+C023,61,Non-binary,Delhi,Delhi,Bachelor's,Student,Clothing,Premium,Credit Card,Tablet,Gold,Website,Standard,Excellent,Loyalty Offer,8772.39,6,27,2026-09-19
+C024,42,Non-binary,Mohali,Punjab,Diploma,Analyst,Electronics,Luxury,UPI,Tablet,Silver,Store,Pickup,Poor,Student Discount,15653.88,2,19,2026-09-17
+C025,60,Male,Jalandhar,Punjab,Bachelor's,Designer,Sports,Mid-range,Credit Card,MacBook,Platinum,Mobile App,Same Day,Very Good,Clearance,20876.22,5,18,2026-04-18
+C026,55,Non-binary,Delhi,Delhi,Bachelor's,Government,Footwear,Luxury,Wallet,iPhone,Platinum,Mobile App,Standard,Good,Clearance,16663.24,6,5,2026-05-01
+C027,32,Female,Jalandhar,Punjab,Diploma,Student,Electronics,Mid-range,Cash,Tablet,None,Social Media,Pickup,Excellent,Festival Sale,18014.7,7,31,2026-07-24
+C028,27,Non-binary,Amritsar,Punjab,High School,Engineer,Groceries,Mid-range,Credit Card,Tablet,Platinum,Website,Express,Poor,Loyalty Offer,3505.94,8,33,2026-10-14
+C029,38,Male,Mumbai,Maharashtra,PhD,Designer,Footwear,Mid-range,Wallet,MacBook,Platinum,Store,Express,Good,Clearance,12217.49,4,17,2026-08-14
+C030,63,Male,Mohali,Punjab,Diploma,Analyst,Beauty,Premium,Net Banking,Android,Silver,Mobile App,Express,Very Good,Festival Sale,17718.9,2,26,2026-07-28
+C031,52,Male,Patiala,Punjab,Master's,Student,Home & Kitchen,Luxury,Cash,Tablet,None,Social Media,Pickup,Poor,Student Discount,7604.89,7,26,2026-10-03
+C032,56,Female,Pune,Maharashtra,Master's,Business,Sports,Luxury,Cash,Android,Platinum,Store,Pickup,Fair,Loyalty Offer,23004.55,1,25,2026-10-16
+C033,23,Non-binary,Ludhiana,Punjab,Master's,Teacher,Footwear,Mid-range,UPI,Windows Laptop,Platinum,Store,Express,Very Good,Student Discount,8569.35,7,17,2026-08-04
+C034,23,Male,Jalandhar,Punjab,High School,Student,Beauty,Mid-range,Wallet,Android,None,Website,Express,Fair,None,15608.75,4,8,2026-08-31
+C035,54,Female,Mohali,Punjab,Master's,Analyst,Beauty,Mid-range,Net Banking,Tablet,None,Mobile App,Same Day,Poor,Clearance,835.85,5,24,2026-07-23
+C036,22,Non-binary,Amritsar,Punjab,Diploma,Engineer,Sports,Budget,Net Banking,Android,Gold,Social Media,Same Day,Poor,Clearance,16258.72,1,26,2026-09-08
+C037,45,Male,Mohali,Punjab,Master's,Teacher,Groceries,Mid-range,Wallet,Tablet,Gold,Social Media,Pickup,Very Good,Clearance,6855.48,4,5,2026-05-23
+C038,33,Male,Jaipur,Rajasthan,PhD,Designer,Beauty,Budget,Cash,Windows Laptop,Silver,Social Media,Express,Good,Student Discount,8639.74,5,35,2026-01-06
+C039,30,Female,Pune,Maharashtra,Diploma,Designer,Footwear,Mid-range,Wallet,MacBook,Platinum,Social Media,Standard,Poor,Student Discount,5694.81,4,19,2026-10-25
+C040,48,Non-binary,Patiala,Punjab,PhD,Healthcare,Groceries,Premium,Debit Card,MacBook,Gold,Store,Same Day,Fair,None,18087.57,6,7,2026-10-02
+C041,30,Female,Chandigarh,Punjab,Master's,Analyst,Sports,Budget,Credit Card,Windows Laptop,Silver,Store,Express,Good,None,17758.57,3,17,2026-01-24
+C042,53,Male,Ludhiana,Punjab,Diploma,Government,Clothing,Budget,Net Banking,Windows Laptop,Platinum,Social Media,Pickup,Good,Festival Sale,24144.31,5,30,2026-02-28
+C043,43,Male,Mohali,Punjab,High School,Student,Books,Mid-range,Net Banking,Windows Laptop,None,Mobile App,Standard,Excellent,Loyalty Offer,15236.28,4,33,2026-07-14
+C044,46,Male,Jaipur,Rajasthan,PhD,Designer,Sports,Budget,Net Banking,Android,Silver,Mobile App,Same Day,Poor,Festival Sale,6147.9,2,10,2026-01-02
+C045,46,Non-binary,Delhi,Delhi,PhD,Government,Sports,Budget,Credit Card,Windows Laptop,Gold,Social Media,Standard,Fair,Student Discount,19737.92,4,27,2026-02-28
+C046,32,Non-binary,Pune,Maharashtra,Diploma,Analyst,Books,Budget,UPI,iPhone,Gold,Store,Pickup,Poor,Loyalty Offer,17278.9,7,17,2026-09-14
+C047,49,Male,Pune,Maharashtra,High School,Student,Groceries,Premium,Net Banking,Windows Laptop,None,Website,Express,Excellent,Clearance,23779.45,5,2,2026-03-31
+C048,51,Non-binary,Jaipur,Rajasthan,Master's,Analyst,Books,Luxury,Wallet,MacBook,None,Social Media,Same Day,Very Good,Student Discount,8161.57,2,10,2026-06-18
+C049,62,Male,Delhi,Delhi,Bachelor's,Designer,Electronics,Luxury,UPI,Windows Laptop,Gold,Store,Standard,Very Good,Clearance,20658.02,1,34,2026-08-25
+C050,21,Female,Delhi,Delhi,PhD,Healthcare,Footwear,Luxury,UPI,iPhone,Gold,Mobile App,Same Day,Very Good,Loyalty Offer,3210.49,4,10,2026-06-09
+C051,18,Non-binary,Pune,Maharashtra,Master's,Engineer,Home & Kitchen,Budget,Cash,Android,Silver,Social Media,Same Day,Excellent,Student Discount,10503.58,8,30,2026-05-05
+C052,53,Female,Jaipur,Rajasthan,Master's,Business,Books,Budget,Debit Card,MacBook,Gold,Store,Standard,Good,Student Discount,20969.24,8,9,2026-08-17
+C053,48,Male,Pune,Maharashtra,Bachelor's,Designer,Footwear,Premium,Credit Card,iPhone,Platinum,Mobile App,Pickup,Poor,Student Discount,18668.43,7,24,2026-03-19
+C054,20,Female,Jaipur,Rajasthan,PhD,Healthcare,Clothing,Luxury,UPI,Tablet,Platinum,Website,Express,Very Good,Festival Sale,2054.82,5,21,2026-07-23
+C055,39,Non-binary,Mohali,Punjab,PhD,Designer,Beauty,Luxury,Net Banking,Android,None,Mobile App,Same Day,Fair,None,10961.93,2,6,2026-08-16
+C056,62,Male,Chandigarh,Punjab,High School,Student,Beauty,Budget,Debit Card,Windows Laptop,Gold,Social Media,Express,Fair,Clearance,10418.3,3,10,2026-03-31
+C057,57,Male,Mohali,Punjab,PhD,Business,Footwear,Mid-range,Credit Card,MacBook,Gold,Social Media,Same Day,Poor,Loyalty Offer,22549.89,3,4,2026-08-15
+C058,55,Male,Patiala,Punjab,Master's,Analyst,Footwear,Premium,Credit Card,MacBook,Platinum,Website,Express,Very Good,Clearance,9101.55,5,18,2026-01-12
+C059,35,Female,Delhi,Delhi,PhD,Student,Footwear,Premium,Credit Card,Tablet,Gold,Mobile App,Express,Excellent,Student Discount,17008.24,3,6,2026-01-21
+C060,46,Female,Jalandhar,Punjab,PhD,Healthcare,Books,Budget,Debit Card,Windows Laptop,Platinum,Mobile App,Express,Fair,Clearance,21936.1,6,33,2026-09-14
+C061,28,Male,Jalandhar,Punjab,Master's,Analyst,Beauty,Budget,Cash,Android,Silver,Mobile App,Pickup,Excellent,Student Discount,2438.6,7,0,2026-05-16
+C062,25,Male,Pune,Maharashtra,Bachelor's,Analyst,Groceries,Premium,UPI,iPhone,Platinum,Website,Same Day,Excellent,Festival Sale,16261.43,8,19,2026-07-29
+C063,26,Female,Mohali,Punjab,High School,Analyst,Footwear,Budget,UPI,iPhone,Silver,Social Media,Pickup,Good,Clearance,10593.76,3,26,2026-02-20
+C064,57,Male,Jaipur,Rajasthan,Bachelor's,Student,Beauty,Mid-range,Cash,MacBook,Silver,Store,Standard,Good,Clearance,22561.97,6,3,2026-07-23
+C065,30,Female,Jalandhar,Punjab,Master's,Engineer,Home & Kitchen,Budget,UPI,Windows Laptop,Silver,Mobile App,Express,Poor,Clearance,5336.71,4,14,2026-06-18
+C066,56,Female,Chandigarh,Punjab,Bachelor's,Teacher,Books,Premium,Credit Card,Android,None,Mobile App,Standard,Good,Festival Sale,14803.14,1,11,2026-05-16
+C067,26,Non-binary,Ludhiana,Punjab,Master's,Engineer,Clothing,Luxury,Cash,Windows Laptop,None,Social Media,Express,Excellent,None,18235.35,5,29,2026-01-16
+C068,48,Male,Ludhiana,Punjab,Master's,Engineer,Footwear,Luxury,UPI,Android,Gold,Mobile App,Standard,Fair,Student Discount,15682.7,6,24,2026-09-29
+C069,47,Non-binary,Jalandhar,Punjab,PhD,Designer,Clothing,Budget,Wallet,Tablet,Silver,Social Media,Pickup,Fair,Loyalty Offer,8604.84,8,25,2026-08-01
+C070,38,Male,Mohali,Punjab,Bachelor's,Analyst,Beauty,Mid-range,Wallet,MacBook,None,Website,Standard,Poor,Loyalty Offer,2593.89,6,8,2026-10-12
+C071,55,Non-binary,Ludhiana,Punjab,PhD,Healthcare,Clothing,Luxury,Debit Card,MacBook,None,Store,Same Day,Good,None,14531.96,4,9,2026-09-04
+C072,24,Male,Amritsar,Punjab,PhD,Healthcare,Clothing,Premium,Net Banking,iPhone,Platinum,Website,Same Day,Poor,Festival Sale,6976.38,5,21,2026-06-29
+C073,29,Female,Ludhiana,Punjab,PhD,Designer,Clothing,Mid-range,Wallet,Android,None,Mobile App,Pickup,Very Good,Loyalty Offer,8653.56,6,19,2026-06-16
+C074,56,Female,Mumbai,Maharashtra,High School,Teacher,Books,Budget,Wallet,Android,Gold,Social Media,Pickup,Very Good,Clearance,11162.14,5,13,2026-09-20
+C075,40,Male,Mohali,Punjab,High School,Analyst,Footwear,Premium,UPI,iPhone,Platinum,Website,Standard,Fair,Student Discount,23643.98,3,16,2026-05-29
+C076,25,Female,Patiala,Punjab,Master's,Designer,Books,Mid-range,Cash,Tablet,Silver,Store,Standard,Very Good,None,11017.68,8,4,2026-06-10
+C077,45,Non-binary,Mumbai,Maharashtra,Master's,Designer,Sports,Budget,Cash,Android,Gold,Mobile App,Pickup,Good,None,11029.89,2,15,2026-08-12
+C078,43,Non-binary,Mumbai,Maharashtra,High School,Designer,Sports,Premium,Credit Card,Windows Laptop,Silver,Website,Standard,Excellent,Clearance,5008.01,6,22,2026-03-17
+C079,24,Female,Amritsar,Punjab,Bachelor's,Business,Books,Mid-range,Wallet,Android,Silver,Social Media,Pickup,Excellent,Clearance,11332.3,6,20,2026-03-19
+C080,22,Male,Jaipur,Rajasthan,Master's,Analyst,Sports,Budget,Debit Card,Tablet,None,Store,Pickup,Very Good,None,1609.93,5,4,2026-02-16
+C081,56,Non-binary,Mumbai,Maharashtra,Master's,Government,Electronics,Luxury,Net Banking,iPhone,Gold,Social Media,Express,Poor,Loyalty Offer,2765.95,6,5,2026-09-16
+C082,20,Female,Chandigarh,Punjab,Master's,Government,Books,Premium,Debit Card,Windows Laptop,Platinum,Social Media,Same Day,Excellent,None,19772.62,6,4,2026-06-18
+C083,53,Non-binary,Mohali,Punjab,Master's,Analyst,Sports,Mid-range,Debit Card,Android,Silver,Store,Same Day,Very Good,Festival Sale,14956.62,2,19,2026-10-14
+C084,59,Male,Delhi,Delhi,Diploma,Engineer,Groceries,Premium,UPI,Windows Laptop,Gold,Mobile App,Express,Good,Loyalty Offer,4960.92,3,9,2026-02-09
+C085,24,Non-binary,Jalandhar,Punjab,PhD,Student,Beauty,Mid-range,Net Banking,MacBook,Silver,Mobile App,Express,Excellent,Festival Sale,18085.06,1,26,2026-07-06
+C086,46,Non-binary,Amritsar,Punjab,Bachelor's,Government,Home & Kitchen,Mid-range,Debit Card,MacBook,Silver,Store,Pickup,Very Good,Student Discount,19497.25,7,10,2026-04-13
+C087,26,Male,Mumbai,Maharashtra,High School,Government,Beauty,Budget,Wallet,Tablet,None,Store,Standard,Fair,Student Discount,11342.57,3,27,2026-02-16
+C088,46,Male,Amritsar,Punjab,High School,Designer,Electronics,Luxury,Net Banking,Windows Laptop,Silver,Social Media,Standard,Good,Festival Sale,898.08,2,21,2026-03-16
+C089,20,Male,Chandigarh,Punjab,Master's,Teacher,Footwear,Luxury,Net Banking,Android,None,Website,Same Day,Fair,Festival Sale,13809.89,7,7,2026-05-28
+C090,37,Female,Amritsar,Punjab,High School,Business,Groceries,Luxury,UPI,Android,Platinum,Website,Express,Fair,Student Discount,10844.55,6,15,2026-10-20
+C091,29,Non-binary,Delhi,Delhi,High School,Healthcare,Clothing,Budget,Cash,MacBook,None,Social Media,Same Day,Good,None,9055.29,2,22,2026-05-04
+C092,55,Non-binary,Mohali,Punjab,Bachelor's,Teacher,Electronics,Premium,Net Banking,Windows Laptop,Silver,Social Media,Pickup,Fair,Festival Sale,1763.96,8,2,2026-05-31
+C093,20,Female,Amritsar,Punjab,High School,Healthcare,Sports,Luxury,Net Banking,MacBook,Gold,Website,Express,Good,Student Discount,21580.9,1,21,2026-05-20
+C094,41,Male,Mohali,Punjab,Master's,Government,Groceries,Premium,Credit Card,MacBook,Platinum,Store,Same Day,Poor,Loyalty Offer,2156.47,3,34,2026-05-31
+C095,24,Female,Patiala,Punjab,Bachelor's,Analyst,Sports,Luxury,Net Banking,MacBook,Silver,Social Media,Same Day,Very Good,None,18224.72,6,27,2026-05-21
+C096,22,Non-binary,Ludhiana,Punjab,Master's,Healthcare,Books,Budget,Credit Card,Tablet,Platinum,Website,Express,Poor,Festival Sale,19506.96,6,23,2026-07-16
+C097,20,Non-binary,Mumbai,Maharashtra,Diploma,Government,Beauty,Premium,Cash,Android,Silver,Store,Pickup,Good,Student Discount,6389.62,2,1,2026-04-06
+C098,51,Male,Jaipur,Rajasthan,PhD,Engineer,Sports,Premium,Wallet,MacBook,Silver,Store,Pickup,Fair,None,3565.2,2,28,2026-03-30
+C099,23,Non-binary,Jaipur,Rajasthan,Bachelor's,Healthcare,Clothing,Premium,Debit Card,iPhone,Silver,Store,Express,Poor,Festival Sale,19843.02,4,31,2026-01-14
+C100,53,Non-binary,Patiala,Punjab,Bachelor's,Government,Books,Budget,UPI,Windows Laptop,Platinum,Social Media,Pickup,Very Good,Clearance,2028.09,6,4,2026-08-19
